@@ -1,9 +1,9 @@
 # vivienfournier
 Few projects I have worked on
 
-🇫🇷 Bonjour je m'appelle Vivien Fournier, je suis élève-ingénieur à l'ESPCI et voici quelques projets que j'ai fait.
+🇫🇷 Elève-ingénieur à l'ESPCI, voici quelques projets que j'ai fait.
 
-🇬🇧 Hello, my name is Vivien Fournier, I am an engineering student at ESPCI, and here are some projects I have worked on.
+🇬🇧 I am an engineering student at ESPCI, and here are some projects I have worked on.
 
 ---
 
@@ -31,10 +31,9 @@ Few projects I have worked on
 
 ### [TIPE: Modélisation d’une épidémie par un graphe aléatoire]
 
-🇫🇷
+🇫🇷 J'ai modélisé la propagation d'une épidémie à travers différents graphes aléatoires, en commençant par le graphe d'Erdos-Rényi puis en prenant des graphes représentant mieux la situation 
 
-🇬🇧
-
+🇬🇧 I modeled the spread of an epidemic through different random graphs, starting with the Erdos-Rényi graph and then using graphs that better represent the situation
 
 
 ---
