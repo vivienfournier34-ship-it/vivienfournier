@@ -17,7 +17,7 @@ Few projects I have worked on
 
 -  **Live site / Site en ligne :** [mon-orientation-superieure.vercel.app](https://mon-orientation-superieure.vercel.app)
 -  **Stack :** HTML / CSS / JavaScript · Supabase (PostgreSQL, Auth, Storage, Edge Functions) · Resend · Vercel
--  **Fonctionnalités :** authentification, profils, recherche, messagerie, notifications, espace d'administration 
+-  **Fonctionnalités :** authentification, profils, recherche, messagerie, notifications
 
 ---
 
@@ -35,11 +35,7 @@ Few projects I have worked on
 
 🇬🇧
 
-| Projet | Description | Technologies | Lien |
-|---|---|---|---|
-| [NOM DU TP 1] | [Ce que fait le TP en une phrase] | [Ex. HTML, CSS] | [Voir le code](LIEN_REPO_TP1) |
-| [NOM DU TP 2] | [Ce que fait le TP en une phrase] | [Ex. JavaScript] | [Voir le code](LIEN_REPO_TP2) |
-| [NOM DU TP 3] | [Ce que fait le TP en une phrase] | [Ex. Python] | [Voir le code](LIEN_REPO_TP3) |
+
 
 ---
 
