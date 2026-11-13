@@ -21,7 +21,7 @@ Few projects I have worked on
 
 ---
 
-## 🧰 Compétences
+##  Compétences
 
 - **Langages :**  HTML, CSS, JavaScript...
 - **Outils :** Git, GitHub, VS Code
